@@ -8,8 +8,6 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.stoopipoopy.projectv.projectv;
 
-import java.awt.event.InputEvent;
-
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, projectv.MOD_ID);
