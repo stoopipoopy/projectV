@@ -1,3 +1,9 @@
 {
-  "item.projectv.giantporkchop": "Giant Porkchop"
+  "item.projectv.giantporkchop": "Giant Porkchop",
+  "item.projectv.axolotlaquarium": "Axolotl Aquarium",
+  "item.projectv.choochootrain": "Choo Choo Train",
+
+
+
+  "itemGroup.ProjectV": "ProjectV"
 }
